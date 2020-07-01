@@ -1,0 +1,6 @@
+Composer -> Gerenciador de Dependências
+
+Pelo cmd, na pasta do projeto...
+
+	Digitar "composer init"
+	Digitar "composer require monolog/monolog"
